@@ -6,4 +6,4 @@ Suddenly, you hear something. It sounds… like a person! But it could be just y
 
 What now? 
 
-- 👀 [Go see who/what it is](./scene4A.md)
+- 👀 [Go see who/what it is](./scene4a.md)
