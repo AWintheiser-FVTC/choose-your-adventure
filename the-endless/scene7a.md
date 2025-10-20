@@ -5,4 +5,4 @@ You decide to trust Rick’s instinct is right and go ahead with the plan. You r
 “That was far too close!”, you say multiple times. But Rick and his friend are too determined, as are you, to give up now.
   
 
-- 🖥️ [You reach the Control Center](./scene8A.md)
+- 🖥️ [You reach the Control Center](./scene8a.md)
