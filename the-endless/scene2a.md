@@ -5,6 +5,6 @@ You try Door 1. This leads you to a carnival. There is a go-kart, a super slide,
 
 What now?
 
-- 🏎️ [Drive the Kart](./scene3A.md)
-- 🎢 [Ride the Roller-Coaster](./scene3B.md)
+- 🏎️ [Drive the Kart](./scene3a.md)
+- 🎢 [Ride the Roller-Coaster](./scene3b.md)
 - 🛝 [Going Down the Slide](./scene3c.md)
