@@ -4,6 +4,6 @@ You are a young adventurer who, along with your camcorder, have found their way 
 
 What do you do?
 
-- 🛸 [Open Door 1](./scene2A.md)
-- 🤖 [Open Door 2](./scene2B.md)
-- 🚀 [Open Door 3](./scene2C.md)
+- 🛸 [Open Door 1](./scene2a.md)
+- 🤖 [Open Door 2](./scene2b.md)
+- 🚀 [Open Door 3](./scene2c.md)
