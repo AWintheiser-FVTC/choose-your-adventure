@@ -1,13 +1,9 @@
-# Scene Title
+# SCENE 1: The Entrance Room
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-💬 “Consectetur adipiscing elit quisque faucibus ex sapien vitae.”
+You are a young adventurer who, along with your camcorder, have found their way into the Endless. You don’t know why or how you are here, but the time for those questions have passed. Now you are in a room with hicks grand wallpaper and three doors. One of these doors, might be the start of your path home…
 
 What do you do?
 
-- 🛸 [Go to the spaceport](./scene2A.md)
-- 🤖 [Talk to the droid](./scene2B.md)
-- 🚀 [Board the starship](./scene2C.md)
+- 🛸 [Open Door 1](./scene2A.md)
+- 🤖 [Open Door 2](./scene2B.md)
+- 🚀 [Open Door 3](./scene2C.md)
