@@ -10,4 +10,4 @@ Do you agree?
 
 What now? 
 
-- 🪢 [Agree to Rick’s Mentorship](./scene6A.md)
+- 🪢 [Agree to Rick’s Mentorship](./scene6a.md)
