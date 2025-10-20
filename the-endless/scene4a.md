@@ -8,5 +8,5 @@ Just then, a rope drops from above you and a voice calls out.
 It sounds like another human! Or could it be a trick?
 What now?  
 
-- 🪢 [Climb the Rope](./scene5A.md)
-- 🥶 [Get cold feet](./scene5B.md)
+- 🪢 [Climb the Rope](./scene5a.md)
+- 🥶 [Get cold feet](./scene5b.md)
