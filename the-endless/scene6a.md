@@ -5,4 +5,4 @@ One day, a friend of Rick’s finds the two of you. They reveal that they found 
 
 What should you do? 
 
-- 🧠 [Go ahead with the plan](./scene7A.md)
+- 🧠 [Go ahead with the plan](./scene7a.md)
