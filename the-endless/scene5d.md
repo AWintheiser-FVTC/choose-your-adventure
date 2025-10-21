@@ -7,4 +7,4 @@ Eventually a safe doorway. You're friend is falling behind. Knowing he won't mak
 "NO!", you scream as you're friend is taken away. 
 
 Will you allow this monster to keep your friend? 
-- 🪢 [Going for you're friend](./scene6b.md)
+- 🪢 [Going for you're friend](./scene6c.md)
